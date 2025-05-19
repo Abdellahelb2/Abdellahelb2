@@ -7,19 +7,16 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in **Py
 - Building full-stack applications
 - Working with APIs and backend systems
 - Open-source collaboration
-- Exploring machine learning and data science
-- Contributing to community-driven tech
+- Exploring AI and data science
 
 ## 🌱 I’m currently learning
 
-- Front-end frameworks (like Vue.js or React)
-- Docker and deployment pipelines
+- Front-end frameworks (like  React)
 - Clean architecture and testing practices
 
 ## 💞️ I’m looking to collaborate on
 - Open-source projects in PHP, Laravel, or Python
 - Innovative Java-based applications
-- Building APIs or automation tools
 - Any project that helps people learn and grow!
 
 ## 📫 How to reach me
