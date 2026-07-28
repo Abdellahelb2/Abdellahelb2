@@ -1,70 +1,182 @@
 # 👋 Hi, I'm Abdellah El Berdai
 
-💻 Software Developer | 🔐 Cybersecurity Enthusiast | Backend & Full-Stack Learner
+<div align="center">
 
-Welcome to my GitHub profile! I’m passionate about building secure and efficient systems, solving problems, and continuously improving my skills in software engineering and cybersecurity.
+### 💻 Software Developer | 🔐 Cybersecurity Enthusiast | 🚀 Backend & Full-Stack Learner
+
+*Building secure applications, exploring cybersecurity, and continuously learning new technologies.*
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Abdellahelb2&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Abdellahelb2?label=Followers&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Abdellahelb2?affiliations=OWNER&style=social" alt="Stars" />
+</p>
+
+</div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🔭 I’m currently focused on **Cybersecurity** and backend development
-- 🌱 Learning **ethical hacking fundamentals, web security, and system design**
-- 🧠 Interested in how applications work *and how they break*
-- 🤝 Open to collaboration on open-source and security-related projects
-- 🎯 Goal: Become a strong **cybersecurity engineer / backend developer**
+- 🔐 Passionate about **Cybersecurity** and **Backend Development**
+- 💻 Building secure, scalable, and efficient applications
+- 🌱 Currently learning:
+  - Ethical Hacking
+  - Web Security
+  - Kubernetes Security
+  - Secure Software Development
+  - Clean Architecture
+- 🧠 I enjoy understanding **how systems work** and **how they can be exploited** to build better defenses.
+- 🤝 Open to collaborating on **Open Source**, **Cybersecurity**, and **Backend** projects.
+- 🎯 Goal: Become a highly skilled **Cybersecurity Engineer** with strong backend expertise.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-**Languages**
-- Python 🐍
-- Java ☕
-- PHP (Laravel) 🔧
-- JavaScript ⚡
+## 💻 Programming Languages
 
-**Cybersecurity & Backend Focus**
-- Web Security Basics (XSS, SQLi, CSRF)
-- Networking fundamentals
-- Linux 
-- API security concepts
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,php,js" />
+</p>
 
-**Currently exploring**
-- React
-- Node.js
-- Clean Architecture
-- Penetration testing 
-- Secure coding practices
+## ⚙️ Frameworks & Technologies
 
-**Tools**
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,react,spring,django" />
+</p>
+
+## 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite" />
+</p>
+
+## ☁️ DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github" />
+</p>
+
+## 🖥️ Operating Systems & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,kali,vscode,bash" />
+</p>
+
+### 🔐 Cybersecurity Skills
+
+- Web Application Security
+- SQL Injection (SQLi)
+- Cross-Site Scripting (XSS)
+- Cross-Site Request Forgery (CSRF)
+- Server-Side Request Forgery (SSRF)
+- Authentication & Authorization
+- API Security
+- Networking Fundamentals
+- Linux Administration
+- Penetration Testing Fundamentals
+- Secure Coding Practices
+
+### 🧰 Tools
+
+- Burp Suite
 - Git & GitHub
-- Burp Suite 
-- Linux / Kali 
+- Docker
+- Kubernetes
+- Postman
 - REST APIs
-- Databases 
+- Wazuh (Learning)
+- Nmap
+- Gobuster
+- Hydra
 
 ---
 
-## 🤝 Collaboration Interests
+# 📚 Currently Learning
 
-- Cybersecurity projects (web security, labs, tools)
-- Open-source backend systems
-- Security-focused APIs
-
----
-
-## 📫 Contact
-
-- 📧 Email: elberdai01@gmail.com  
-- 🔗 LinkedIn: [Abdellah El Berdai](https://www.linkedin.com/in/abdellah-el-berdai/)
+- 🔥 Advanced Web Security
+- ☸️ Kubernetes Security
+- 🛡️ SIEM & Threat Detection
+- 🏗️ Clean Architecture
+- 🔒 Secure API Development
+- ☁️ Cloud Security
+- DevSecOps
 
 ---
 
-## ⚡ Fun Fact
+# 🚀 Featured Interests
 
-I like breaking systems just to understand how to build them better 😄
+- 🔐 Cybersecurity
+- 🌐 Web Application Security
+- ⚙️ Backend Development
+- ☁️ Cloud & Kubernetes Security
+- 🐧 Linux
+- 🛡️ Secure Software Engineering
+- 🤖 Automation
+- 🧩 Open Source
 
 ---
 
-⭐ Thanks for stopping by! Feel free to explore my repositories and connect.
+# 🤝 Looking to Collaborate On
+
+- Cybersecurity Tools
+- Penetration Testing Labs
+- Backend APIs
+- Secure Web Applications
+- DevSecOps Projects
+- Open Source Software
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdellahelb2&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdellahelb2&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Abdellahelb2&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Abdellahelb2&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email:** **elberdai01@gmail.com**
+
+💼 **LinkedIn:** **Abdellah El Berdai**
+
+---
+
+# ⚡ Fun Fact
+
+> 💥 *I enjoy breaking systems to understand how to build them stronger.*
+
+---
+
+<div align="center">
+
+### 🚀 Thanks for visiting my GitHub profile!
+
+If you like my projects, don't forget to ⭐ your favorites!
+
+**Happy Coding & Happy Hacking! 🔐💻**
+
+</div>
